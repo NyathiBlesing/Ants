@@ -15,6 +15,9 @@ Ants: Each type of ant takes a different action and requires a different amount 
 
 However, with great power comes great responsibility. The Queen is governed by three special rules:
 
+1. If a bee ever enters the place occupied by the queen, then the bees immediately win the game. The game ends even if the queen is protected by a bodyguard. The bees also win if any bee reaches the end of a tunnel where the queen normally would reside.
+
+
 
 
 This project combines functional and object-oriented programming paradigms.
