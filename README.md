@@ -17,6 +17,10 @@ However, with great power comes great responsibility. The Queen is governed by t
 
 1. If a bee ever enters the place occupied by the queen, then the bees immediately win the game. The game ends even if the queen is protected by a bodyguard. The bees also win if any bee reaches the end of a tunnel where the queen normally would reside.
 
+2. There can be only one true queen. Any queen beyond the first one is an impostor and should die immediately (its armor reduced to 0) upon taking its first action, without doubling any ant's damage or throwing anything. Impostor queens should not affect the colony's queen attribute. You can detect impostor queens by counting the number of times that an instance of a QueenAnt has been constructed, using a class attribute. Any QueenAnt beyond the first one created is an impostor. You should not have to search through the colony places to find other queens.
+
+3. 
+
 
 
 
