@@ -13,6 +13,10 @@ Bees: When it is time to act, a bee either moves to the exit of its current Plac
 
 Ants: Each type of ant takes a different action and requires a different amount of food to place. The two most basic ant types are the HarvesterAnt, which adds one food to the colony during each turn, and the ThrowerAnt, which throws a leaf at a bee each turn.
 
+
+
 This project combines functional and object-oriented programming paradigms.
 
 Programming Language used: Python
+
+Acknowledgments:  John DeNero
