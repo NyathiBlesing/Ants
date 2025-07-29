@@ -19,7 +19,7 @@ However, with great power comes great responsibility. The Queen is governed by t
 
 2. There can be only one true queen. Any queen beyond the first one is an impostor and should die immediately (its armor reduced to 0) upon taking its first action, without doubling any ant's damage or throwing anything. Impostor queens should not affect the colony's queen attribute. You can detect impostor queens by counting the number of times that an instance of a QueenAnt has been constructed, using a class attribute. Any QueenAnt beyond the first one created is an impostor. You should not have to search through the colony places to find other queens.
 
-3. 
+3. The true (first) queen cannot be removed. Attempts to remove the queen should have no effect (but should not cause an error.
 
 
 
