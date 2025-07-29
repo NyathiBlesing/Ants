@@ -1,4 +1,7 @@
 # Ants
+
+<img width="470" height="239" alt="Capture" src="https://github.com/user-attachments/assets/9841bc1a-7126-42bd-9f69-e78efb1cae46" />
+
 This is a tower defense game called Ants Vs. SomeBees. As the ant queen, populate colony with the bravest ants muster. Ants must protect their queen from the evil bees that invade the territory. They must Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and the queen will succumb to the bees' wrath. This game is inspired by PopCap Games' Plants Vs. Zombies ®.
 
 Core Concepts
