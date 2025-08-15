@@ -31,6 +31,6 @@ This project combines functional and object-oriented programming paradigms.
 
 Python
 
-Credits: 
+## Credits: 
 
 John DeNero
