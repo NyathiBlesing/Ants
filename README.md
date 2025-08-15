@@ -16,7 +16,7 @@ Bees: When it is time to act, a bee either moves to the exit of its current Plac
 
 Ants: Each type of ant takes a different action and requires a different amount of food to place. The two most basic ant types are the HarvesterAnt, which adds one food to the colony during each turn, and the ThrowerAnt, which throws a leaf at a bee each turn.
 
-However, with great power comes great responsibility. The Queen is governed by three special rules:
+#### However, with great power comes great responsibility. The Queen is governed by three special rules:
 
 1. If a bee ever enters the place occupied by the queen, then the bees immediately win the game. The game ends even if the queen is protected by a bodyguard. The bees also win if any bee reaches the end of a tunnel where the queen normally would reside.
 
