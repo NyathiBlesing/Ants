@@ -27,6 +27,8 @@ However, with great power comes great responsibility. The Queen is governed by t
 
 This project combines functional and object-oriented programming paradigms.
 
-Programming Language used: Python
+Programming Language used:
+
+Python
 
 Credits:  John DeNero
