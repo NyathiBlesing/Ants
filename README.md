@@ -25,7 +25,7 @@ However, with great power comes great responsibility. The Queen is governed by t
 3. The true (first) queen cannot be removed. Attempts to remove the queen should have no effect.
 
 
-This project combines functional and object-oriented programming paradigms.
+### This project combines functional and object-oriented programming paradigms.
 
 ## Programming Language used:
 
